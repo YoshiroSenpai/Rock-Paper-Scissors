@@ -7,9 +7,28 @@ First, you will see the home screen, which has a Start button and a background i
 
 
 
+
+
+
+
+
+
+
+
 Then, the next page is the game screen, which shows three buttons.
 These buttons let you choose your move: Rock, Paper, or Scissors. Once you click one of them, the move counter will start.
 ![484628315_682643041100113_8719844374904776554_n](https://github.com/user-attachments/assets/e3ab60d9-d7b6-4c65-96d6-f26ad1523bcd)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -20,14 +39,44 @@ This proves that the move counter is working correctly.
 
 
 
+
+
+
+
+
+
+
+
+
 Once 10 moves are completed, you will be taken directly to the results screen.
 ![483330529_1121520603060675_2931544080539068022_n](https://github.com/user-attachments/assets/eed6e7c8-d979-45fd-ae0d-42501b2ba14c)
 
 
 
 
+
+
+
+
+
+
+
+
+
 If you start the game and directly click "View Result", it will show a draw because you didn't make any moves. Both you and the computer will have a score of 0.
 ![476917446_622704280539107_2488001606522689549_n](https://github.com/user-attachments/assets/9b9b7035-0a56-4900-879d-9d24bc82c685)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
